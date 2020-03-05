@@ -1,5 +1,5 @@
-#Web
-#cd /home
+Web
+cd /home
 mkdir site
 cd site
 mkdir www
